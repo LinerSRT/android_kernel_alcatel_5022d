@@ -1,5 +1,5 @@
 # Alcatel 5022D
-#### Kernel source 3.10.72 MT6580
+#### Kernel source 3.10.105 (updated) MT6580
 
 [![N|Solid](http://srtmemory.cloudapp.net/vk_btn.png)](https://vk.com/serini_ty)
 [![N|Solid](http://srtmemory.cloudapp.net/4pda_btn.png)](http://4pda.ru/forum/index.php?showuser=4548849)
